@@ -1,0 +1,43 @@
+Notillas
+
+
+v10
+
+pinche codigo de emiliano, cambio toda la estructura y quien sabe que hizo, lo odio :)
+regresamos a la version culera de mariana a tratar de parar la curva cuando encuentre un NaN
+
+V11
+
+cambie rtol uy otras cosas de numero grandes
+Funciona bien la idea de ir por partes. a 0.5 ya queda
+ 
+V12
+
+utilizar sobol para mejor unicamente explorar las cosas potencialmente chidas, cueste lo que cueste
+
+V13
+
+paralelizar para que sea superfast
+no usar esa paralelizacion esta fea, o no se como hacerla, pero equi usar therads y ya
+
+v14
+
+contuniacion de v12, mejorar threads
+pero despues. 
+se van a usar los datos de emiliano para inicializar la cosa, hay que mejorar lo que teniamos
+
+v15
+
+Mass_CoRa_opt.jl listo para hacer oprimizacion re rapido
+
+v16
+
+empezar con lo mas facil: ATF
+y si estuvo re facil. El algoritmo funciona super, aqui esta bin
+
+v17
+
+cambiar la funcion de coste para castigar los valores 
+se agrego una funcion de enfriamineto. En relalidad no se pa que sirve pero esta re buena, parece que sirve para escapar de los minimos locales
+
+
