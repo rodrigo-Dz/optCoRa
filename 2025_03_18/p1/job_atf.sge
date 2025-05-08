@@ -1,0 +1,7 @@
+#!/bin/bash
+#$ -cwd
+#$ -M rodrigoaguilar@ciencias.unam.mx
+#$ -m bea
+#$ -S /bin/bash
+module load julia/1.8.5
+julia -t 4 run_ATFv1.jl
